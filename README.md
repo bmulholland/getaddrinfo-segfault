@@ -1,4 +1,4 @@
-# getadadrinfo crash repro
+# getaddrinfo crash repro
 
 This crash requires all of the following:
 1. rjb loaded in an initializer (see config/initialziers/rjb.rb)
